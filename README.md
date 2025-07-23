@@ -5,18 +5,19 @@ The iLang software is a simple application that explains all of Textblob feature
 
 ## What iLang does
 
-- Create an account.
-- Log in.
-- Logout.
-- Add, read, update, and delete users.
-- Create, read, update, and delete roles.
-- Create, read, update, and delete permissions.
-- Create, read, update, and delete permissions.
-- Update their profiles
-- Assign roles to users
-- Assign permissions to roles
-- Add users to groups
-- Assign permissions to groups
+- Part of speech tagging
+- Noun phrases extraction
+- Sentiment Analysis
+- Word Tokenization
+- Sentence Tokenization
+- Word Inflection and Lemmatization
+- Word Definition 
+- Word Similarity Check
+- Word Singularization and Pluralization
+- Spelling Correction
+- Word Frequency
+- Noun Phrase Frequency
+- Text Parsing
 
 
 
@@ -44,17 +45,9 @@ This application is implemented with:
 
 ## Future implementations 
 
-   - Creating, reading, updating, and deleting posts
-   - Creating, reading, updating, and deleting comments
+   - Authentication System
    
-## iLang Features
 
-   - User Authentication and Authorization
-   - User Management
-   - Profile Management
-   - Roles Assignment
-   - Permission Assignment
-   - Groups Management
   
      
 ## Getting Started
@@ -91,12 +84,12 @@ This application is implemented with:
      
 
 ## Available Documentation
-   - [UMS API Documentation]()
-   - [UMS Database Design Document]()
-   - [UMS Reference Document]()
-   - [UMS Software Technical Specification]()
-   - [UMS Software Requirements Document]()
-   - [UMS Use Cases Document]()
+   - [iLang API Documentation]()
+   - [iLang Database Design Document]()
+   - [iLang Reference Document]()
+   - [iLang Software Technical Specification]()
+   - [iLang Software Requirements Document]()
+   - [iLang Use Cases Document]()
 
 
 
